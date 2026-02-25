@@ -38,7 +38,7 @@
 
 ## 联系方式
 
-- 邮箱：yizhimcqiu@icloud.com
+- 邮箱：anemoflower@ceciliastudio.top 或 yizhimcqiu@icloud.com
 - QQ：1807753335
 
 ---
