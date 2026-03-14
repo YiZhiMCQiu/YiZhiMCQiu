@@ -26,10 +26,10 @@
 
 ## 代表项目
 
-- [CeciliaStudio](https://github.com/CeciliaStudio)
-- [PCL.Mac](https://github.com/CeciliaStudio/PCL.Mac) —— Minecraft 启动器 macOS 版本
-- [SwiftServer](https://github.com/CeciliaStudio/SwiftServer) —— Swift Minecraft 服务端项目
-- [SwiftScaffolding](https://github.com/CeciliaStudio/SwiftScaffolding) —— [Scaffolding协议](https://github.com/Scaffolding-MC/Scaffolding-MC) 的 Swift 实现库
+- [Cylorine Studio](https://github.com/CylorineStudio)
+- [PCL.Mac](https://github.com/CylorineStudio/PCL.Mac) —— Minecraft 启动器 macOS 版本
+- [SwiftServer](https://github.com/CylorineStudio/SwiftServer) —— Swift Minecraft 服务端项目
+- [SwiftScaffolding](https://github.com/CylorineStudio/SwiftScaffolding) —— [Scaffolding协议](https://github.com/Scaffolding-MC/Scaffolding-MC) 的 Swift 实现库
 
 ## 技术方向
 
